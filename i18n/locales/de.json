@@ -1,8 +1,39 @@
 {
+	"errors": {
+		"pageNotFound": "Seite nicht gefunden"
+	},
+	"general": {
+		"backToHome": "Zurück zur Startseite"
+	},
 	"home": {
+		"aboutDescription": "<p>Liebe befreundete Musiker</p>\n<p>Die schrecklichen Ereignisse in der Ukraine machen uns traurig, wütend und gleichzeitig\nmachtlos. Dieses Leid geht über Worte hinaus. Mit der Sprache, die uns am\nSprache, die uns am vertrautesten ist, der Sprache der Musik, wollen wir den\nden so tapferen Menschen in der Ukraine und allen, die das Leid in diesem\nin diesem schönen Land teilen.\n</p>\n<p>Musik tröstet, verbindet, umarmt, wo keine Worte oder Hände dies tun können.\n</p>\n<p></p>Mit dieser Website möchten wir Musiker, Instrumental- und\nund Vokalensembles, Orchester, Chöre und Bands aus der ganzen Welt einladen, ihre\nihre Version der ukrainischen Nationalhymne zu teilen.\n</p>\n<p>Für einen geordneten Ablauf:\n</p>\n<ul>    <li>Spielen Sie in Ihrem Video nur die Nationalhymne</li>    <li>    Sie können dies mit einem kurzen gesprochenen Wort des Trostes einleiten oder beenden\n    </li>    <li>    Verwenden Sie in Ihrem Kommentar einen kurzen ermutigenden Satz. Keine Negativität,\n    kein Hass, keine langen Texte.\n    </li>    <li>    Markiere mit einer ukrainischen Flagge neben einer Flagge deines Landes\n    </li>    <li>Verwenden Sie den <b>#musiciansforukraine</b> hashtag zum Teilen</li>\n</ul>\n<p>Senden Sie einen Link zu Ihrem Video an <a href=\"mailto:\nmusic@musiciansforukraine.com\">music@musiciansforukraine.com</a>\n</p>\n<p>Oder teilen Sie es in unserer <a href=\"https://www.facebook.com/groups/musiciansforukraine\" target=\"_blank\">Facebook-Gruppe</a>!\n</p>\n<p>Teilen Sie es mit so vielen Menschen wie möglich. Sie werden emotionale Unterstützung spüren\ndie von überall auf der Welt kommt.\n</p>\n<p>Herzlichen Dank für Ihren Beitrag!\n</p>",
+		"linkTitle": "Startseite",
 		"meta": {
 			"description": "Unterstützung der Ukraine durch Musik",
 			"title": "Musiker für die Ukraine"
+		}
+	},
+	"languages": {
+		"de": "Deutsche",
+		"en": "Englisch",
+		"fr": "Französisch",
+		"nl": "Niederländisch",
+		"ru": "Russisch",
+		"uk": "Ukrainisch"
+	},
+	"scores": {
+		"latinAlphabet": "Lateinisches Alphabet",
+		"lyrics": "Text",
+		"lyricsTranslated": "Übersetzt",
+		"meta": {
+			"description": "Laden Sie ukrainische Musikpartituren herunter",
+			"title": "Partituren"
+		},
+		"nationalAnthem": {
+			"fourInstrumentsInF": "4 Instrumente in F",
+			"lyricsTranslation": "<p>Die Ukraine ist noch nicht untergegangen, noch ihr Ruhm der Freiheit<br>Auf uns, Landsleute, wird das Schicksal noch einmal lächeln<br>Unsere Feinde werden wie Tau in der Morgensonne verschwinden<br>Und auch wir werden Brüder in unserem eigenen freien Land regieren\n</p>\n<p>Wir werden unsere Körper und Seelen hingeben, um unsere Freiheit zu erlangen<br>Und wir werden zeigen, dass wir, Brüder, die Kozak-Nation sind (x2)\n</p>",
+			"title": "Ukrainische Nationalhymne",
+			"twoVoicesInG": "2 Stimmen in G"
 		}
 	}
 }

@@ -3,7 +3,10 @@ body {
 }
 
 .page {
-  @apply pb-32;
+  @apply pb-16;
+
+  min-height: 80vh;
+
   &:not(.transparent-header) {
     @apply pt-36;
   }

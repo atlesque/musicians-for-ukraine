@@ -1,8 +1,39 @@
 {
+	"errors": {
+		"pageNotFound": "Pagina niet gevonden"
+	},
+	"general": {
+		"backToHome": "Terug naar de startpagina"
+	},
 	"home": {
+		"aboutDescription": "        <p>Beste vrienden muzikanten</p>\n        <p>\n          De gruwelijke gebeurtenissen in Oekraïne doen me triest, woedend en\n          tegelijk machteloos voelen. Dit leed gaat voorbij woorden. Laat ons\n          met de taal die ons het meest vertrouwd is, de taal van de muziek,\n          steun en troost geven aan de zo moedige bevolking van Oekraïne en\n          iedereen die mee deelt in het leed dat veroorzaakt wordt in dit\n          prachtige land.\n        </p>\n        <p>\n          Muziek troost, verbindt, omarmt daar waar geen woorden of handen dit\n          kunnen doen.\n        </p>\n        <p>\n          Met deze website willen we muzikanten, instrumentale en vocale\n          ensembles, orkesten, koren, bands van over de hele wereld uitnodigen\n          om hun versie van het Oekraïense volkslied in een video hier te\n          posten.\n        </p>\n        <p>Voor een ordelijke gang van zaken:</p>\n        <ul>\n          <li>Speel in je video enkel het volkslied</li>\n          <li>\n            Je mag dit inleiden of afsluiten met een kort gesproken woord van troost\n          </li>\n          <li>\n            Gebruik in je comment een korte bemoedigende zin. Geen negativiteit, geen haat, geen lange teksten\n          </li>\n          <li>Markeer met een Oekraïense vlag naast een vlag van je eigen land, bv.</li>\n          <li>Gebruik de hashtag #musiciansforukraine</li>\n        </ul>\n        <p>\n          Stuur een link naar je video naar\n          <a\n            href=\"mailto:\nmusic@musiciansforukraine.com\"\n            >music@musiciansforukraine.com</a\n          >\n        </p>\n        <p>\n          Of deel het op onze\n          <a\n            href=\"https://www.facebook.com/groups/musiciansforukraine\"\n            target=\"_blank\"\n            >Facebook-groep</a\n          >!\n        </p>\n        <p>\n          Deel met zo veel mogelijk mensen. Zij zullen voelen dat van overal in de wereld emotionele steun komt.\n        </p>\n        <p>Oprecht bedankt voor je bijdrage!</p>",
+		"linkTitle": "Startpagina",
 		"meta": {
 			"description": "Oekraïne steunen met muziek",
 			"title": "Muzikanten voor Oekraïne"
+		}
+	},
+	"languages": {
+		"de": "Duitse",
+		"en": "Engels",
+		"fr": "Frans",
+		"nl": "Nederlands",
+		"ru": "Russisch",
+		"uk": "Oekraïens"
+	},
+	"scores": {
+		"latinAlphabet": "Latijns alfabet",
+		"lyrics": "Songtekst",
+		"lyricsTranslated": "Vertaald",
+		"meta": {
+			"description": "Oekraïense muziekpartituren downloaden",
+			"title": "Muziekpartituren"
+		},
+		"nationalAnthem": {
+			"fourInstrumentsInF": "4 instrumenten in F",
+			"lyricsTranslation": "<p>Oekraïne is nog niet vergaan, noch haar glorie van vrijheid<br>Over ons zal het lot van landgenoten nog een keer lachen<br>Onze vijanden zullen verdwijnen als dauw in de ochtendzon<br>En ook wij zullen heersen over broeders in een vrij land van ons\n</p>\n<p>We zullen ons lichaam en onze ziel neerleggen om onze vrijheid te bereiken<br>En we zullen laten zien dat wij, broeders, de Kozak-natie zijn (x2)\n</p>",
+			"title": "Oekraïens volkslied",
+			"twoVoicesInG": "2 stemmen in G"
 		}
 	}
 }

@@ -1,12 +1,16 @@
 <template>
   <main>
-    <section class="hero text-center flex flex-col items-center pb-16 md:py-32">
-      <h1 class="max-w-xl headline-xl mb-8">
+    <section class="hero text-center flex flex-col items-center pb-8">
+      <h1 class="max-w-xl headline-xl">
         {{ $t(`home.meta.title`) }}
       </h1>
-      <p class="md:text-xl max-w-md md:max-w-2xl mb-10">
+      <p class="md:text-xl max-w-md md:max-w-2xl mb-8">
         {{ $t(`home.meta.description`) }}
       </p>
+    </section>
+    <section class="max-w-2xl mx-auto px-8 md:px-0 nuxt-content">
+      <div v-html="$t(`home.aboutDescription`)"></div>
+      <p>Jozef &amp; Alex</p>
     </section>
   </main>
 </template>
@@ -20,5 +24,5 @@ export default {
       description: this.$t(`home.meta.description`),
     });
   },
-}
+};
 </script>

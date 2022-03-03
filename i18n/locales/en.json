@@ -1,8 +1,39 @@
 {
+	"errors": {
+		"pageNotFound": "Page not found"
+	},
+	"general": {
+		"backToHome": "Back to homepage"
+	},
 	"home": {
+		"aboutDescription": "<p>Dear friend musicians</p>\n<p>\nThe horrific events in Ukraine make us feel sad, furious and at the same\ntime powerless. This suffering goes beyond words. With the language most\nfamiliar to us, the language of music, let us give support and comfort\nto the so brave people of Ukraine and all who share in the suffering\ncaused in this beautiful country.\n</p>\n<p>\nMusic comforts, connects, embraces where no words or hands can do so.\n</p>\n<p></p>\nWith this website we want to invite musicians, instrumental and\nvocal ensembles, orchestras, choir and bands from all over the world to\nshare their version of the Ukrainian national anthem.\n</p>\n<p>\nFor an orderly process:\n</p>\n<ul>\n    <li>In your video, play only the national anthem</li>\n    <li>\n    You may introduce or end this with a short spoken word of comfort\n    </li>\n    <li>\n    In your comment, use a short encouraging sentence. No negativity,\n    no hate, no long texts.\n    </li>\n    <li>\n    Tag with a Ukrainian flag next to a flag of your own country\n    </li>\n    <li>Use the <b>#musiciansforukraine</b> hashtag to share</li>\n</ul>\n<p>\nSend a link to your video to <a href=\"mailto:\nmusic@musiciansforukraine.com\">\nmusic@musiciansforukraine.com</a>\n</p>\n<p>\nOr share it on our <a href=\"https://www.facebook.com/groups/musiciansforukraine\" target=\"_blank\">Facebook group</a>!\n</p>\n<p>\nShare with as many people as possible. They will feel emotional support\ncoming from all over the world.\n</p>\n<p>\nSincere thanks for your contribution!\n</p>",
+		"linkTitle": "Homepage",
 		"meta": {
 			"description": "Supporting Ukraine through music",
 			"title": "Musicians for Ukraine"
+		}
+	},
+	"languages": {
+		"de": "German",
+		"en": "English",
+		"fr": "French",
+		"nl": "Dutch",
+		"ru": "Russian",
+		"uk": "Ukrainian"
+	},
+	"scores": {
+		"latinAlphabet": "Latin alphabet",
+		"lyrics": "Lyrics",
+		"lyricsTranslated": "Translated",
+		"meta": {
+			"description": "Download Ukrainian music scores",
+			"title": "Music scores"
+		},
+		"nationalAnthem": {
+			"fourInstrumentsInF": "4 Instruments in F",
+			"lyricsTranslation": "<p>Ukraine hasn’t perished yet nor her glory of freedom<br>\nUpon us, fellow compatriots fate shall smile once more<br>\nOur enemies will vanish like dew in the morning sun<br>\nAnd we too shall rule brothers in a free land of our own\n</p>\n<p>\nWe’ll lay down our bodies and souls to attain our freedom<br>\nAnd we;ll show that we, brothers, are the Kozak nation (x2)\n</p>",
+			"title": "Ukrainian National Anthem",
+			"twoVoicesInG": "2 Voices in G"
 		}
 	}
 }
