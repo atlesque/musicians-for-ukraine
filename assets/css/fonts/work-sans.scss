@@ -1,0 +1,179 @@
+@font-face {
+  font-family: "Work Sans";
+  src: local("Work Sans ExtraBold"), local("WorkSans-ExtraBold"),
+    url("~assets/fonts/WorkSans-ExtraBold.woff2") format("woff2"),
+    url("~assets/fonts/WorkSans-ExtraBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local("Work Sans Bold Italic"), local("WorkSans-BoldItalic"),
+    url("~assets/fonts/WorkSans-BoldItalic.woff2") format("woff2"),
+    url("~assets/fonts/WorkSans-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local("Work Sans Italic"), local("WorkSans-Italic"),
+    url("~assets/fonts/WorkSans-Italic.woff2") format("woff2"),
+    url("~assets/fonts/WorkSans-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local("Work Sans ExtraLight"), local("WorkSans-ExtraLight"),
+    url("~assets/fonts/WorkSans-ExtraLight.woff2") format("woff2"),
+    url("~assets/fonts/WorkSans-ExtraLight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local("Work Sans ExtraLight Italic"), local("WorkSans-ExtraLightItalic"),
+    url("~assets/fonts/WorkSans-ExtraLightItalic.woff2") format("woff2"),
+    url("~assets/fonts/WorkSans-ExtraLightItalic.woff") format("woff");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local("Work Sans ExtraBold Italic"), local("WorkSans-ExtraBoldItalic"),
+    url("~assets/fonts/WorkSans-ExtraBoldItalic.woff2") format("woff2"),
+    url("~assets/fonts/WorkSans-ExtraBoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local("Work Sans Bold"), local("WorkSans-Bold"),
+    url("~assets/fonts/WorkSans-Bold.woff2") format("woff2"),
+    url("~assets/fonts/WorkSans-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local("Work Sans Thin"), local("WorkSans-Thin"),
+    url("~assets/fonts/WorkSans-Thin.woff2") format("woff2"),
+    url("~assets/fonts/WorkSans-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local("Work Sans Medium"), local("WorkSans-Medium"),
+    url("~assets/fonts/WorkSans-Medium.woff2") format("woff2"),
+    url("~assets/fonts/WorkSans-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local("Work Sans Black"), local("WorkSans-Black"),
+    url("~assets/fonts/WorkSans-Black.woff2") format("woff2"),
+    url("~assets/fonts/WorkSans-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local("Work Sans Black Italic"), local("WorkSans-BlackItalic"),
+    url("~assets/fonts/WorkSans-BlackItalic.woff2") format("woff2"),
+    url("~assets/fonts/WorkSans-BlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local("Work Sans SemiBold"), local("WorkSans-SemiBold"),
+    url("~assets/fonts/WorkSans-SemiBold.woff2") format("woff2"),
+    url("~assets/fonts/WorkSans-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local("Work Sans Regular"), local("WorkSans-Regular"),
+    url("~assets/fonts/WorkSans-Regular.woff2") format("woff2"),
+    url("~assets/fonts/WorkSans-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local("Work Sans Light"), local("WorkSans-Light"),
+    url("~assets/fonts/WorkSans-Light.woff2") format("woff2"),
+    url("~assets/fonts/WorkSans-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local("Work Sans SemiBold Italic"), local("WorkSans-SemiBoldItalic"),
+    url("~assets/fonts/WorkSans-SemiBoldItalic.woff2") format("woff2"),
+    url("~assets/fonts/WorkSans-SemiBoldItalic.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local("Work Sans Light Italic"), local("WorkSans-LightItalic"),
+    url("~assets/fonts/WorkSans-LightItalic.woff2") format("woff2"),
+    url("~assets/fonts/WorkSans-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local("Work Sans Thin Italic"), local("WorkSans-ThinItalic"),
+    url("~assets/fonts/WorkSans-ThinItalic.woff2") format("woff2"),
+    url("~assets/fonts/WorkSans-ThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Work Sans";
+  src: local("Work Sans Medium Italic"), local("WorkSans-MediumItalic"),
+    url("~assets/fonts/WorkSans-MediumItalic.woff2") format("woff2"),
+    url("~assets/fonts/WorkSans-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}

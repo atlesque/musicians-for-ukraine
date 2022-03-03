@@ -1,0 +1,75 @@
+.button {
+  @apply inline-block;
+  @apply text-center;
+  @apply cursor-pointer;
+  @apply px-4;
+  @apply py-2;
+  @apply shadow-md;
+  @apply text-white;
+  @apply bg-darkest-green;
+  @apply outline-none;
+  @apply rounded;
+  @apply transition-all;
+  @apply duration-100;
+  @apply text-base;
+
+  &:disabled,
+  &.disabled {
+    @apply bg-gray;
+    
+    cursor: not-allowed;
+  }
+
+  &:hover:not(:disabled),
+  &:hover:not(.disabled),
+  &:focus:not(:disabled),
+  &:focus:not(.disabled) {
+    @apply outline-none;
+
+    box-shadow: 0 0 0 theme("width[0.5]") theme("colors.darkest-green");
+  }
+
+  &:active:not(:disabled),
+  &:active:not(.disabled) {
+    box-shadow: 0 0 0 theme("width[0.5]") theme("colors.darkest-green");
+  }
+}
+
+@screen md {
+  .button {
+    @apply text-lg;
+  }
+}
+
+.button-primary {
+  @extend .button;
+  @apply bg-darkest-green;
+
+  &:hover:not(:disabled),
+  &:hover:not(.disabled),
+  &:focus:not(:disabled),
+  &:focus:not(.disabled) {
+    @apply outline-none;
+
+    box-shadow: 0 0 0 theme("width[0.5]") theme("colors.darkest-green");
+  }
+
+  &:active:not(:disabled),
+  &:active:not(.disabled) {
+    box-shadow: 0 0 0 theme("width[0.5]") theme("colors.darkest-green");
+    @apply bg-darkest-green;
+  }
+}
+
+.button-primary-outline {
+  @extend .button-primary;
+
+  @apply bg-transparent;
+  @apply text-darkest-green;
+  @apply border-2;
+  @apply border-darkest-green;
+
+  &:active {
+    @apply text-white;
+  }
+}

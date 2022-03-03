@@ -1,0 +1,57 @@
+body {
+  overflow-y: scroll;
+}
+
+.page {
+  @apply pb-32;
+  &:not(.transparent-header) {
+    @apply pt-36;
+  }
+}
+
+.link {
+  @apply font-semibold;
+  &:hover,
+  &:active,
+  &:focus {
+    @apply underline;
+  }
+}
+
+address {
+  @apply not-italic;
+}
+
+.label {
+  @apply mb-1;
+}
+
+.input {
+  @apply px-4;
+  @apply py-2;
+  @apply border-2;
+  @apply border-darkest-green;
+  @apply rounded-md;
+}
+
+.form-error {
+  @apply text-orange;
+  @apply hidden;
+}
+
+.form-group--error {
+  .form-error {
+    @apply inline-block;
+  }
+  .input {
+    @apply border-orange;
+    @apply border-2;
+  }
+}
+
+.table-border-none {
+  tr,
+  td {
+    @apply border-none;
+  }
+}

@@ -1,0 +1,46 @@
+.nuxt-content {
+  h1 {
+    @extend .h1;
+    @apply mt-0;
+  }
+
+  h2 {
+    @extend .h2;
+  }
+
+  h3 {
+    @extend .h3;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    @apply mt-12;
+    @apply mb-4;
+  }
+
+  p {
+    @apply mb-4;
+  }
+
+  small {
+    @apply text-sm;
+  }
+
+  ul {
+    @apply pl-4;
+    @apply list-disc;
+    @apply mb-4;
+  }
+
+  button,
+  .button {
+    @apply mb-4;
+  }
+
+  a {
+    @apply font-semibold;
+  }
+}
