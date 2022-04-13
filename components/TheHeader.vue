@@ -128,6 +128,10 @@ export default {
           translationKey: "scores.meta.title",
           url: "/music-scores",
         },
+        {
+          translationKey: "support.meta.title",
+          url: "/support",
+        },
       ],
     };
   },

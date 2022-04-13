@@ -38,5 +38,12 @@
 			"title": "Oekraïens volkslied",
 			"twoVoicesInG": "2 stemmen in G"
 		}
+	},
+	"support": {
+		"fullDescription": "<p>We worden ondersteund door:</p>      <ul>        <li>          <a href=\"https://hetpoorthuisbrugge.be/\" class=\"link\"\n            >Het Poorthuis</a\n          >: Psychologische hulp en huisvesting voor vluchtelingen\n        </li>        <li>          <a href=\"https://www.facebook.com/ArtRaven-Lamoot-1101619029871258/\" class=\"link\"\n            >Raven Lamoot</a\n          >: Illustratie op pagina met bladmuziek\n        </li>        <li>          <a href=\"https://www.instagram.com/lohxillustrations/\" class=\"link\"\n            >Lotte Hendrickx</a\n          >: Logo afbeelding\n        </li>        <li>          <a href=\"https://helpukraine.be\" class=\"link\"\n            >Help Ukraine</a\n          >: Informatiewebsite over de oorlog in Oekraïne\n        </li>      </ul>      <h2>Wil je ons ook helpen?</h2>      <p>Stuur ons een bericht: <a href=\"mailto:music@musiciansforukraine.com\">music@musiciansforukraine.com</a></p>      <p>We zijn allemaal muzikanten voor Oekraïne!</p>",
+		"meta": {
+			"description": "Wie ons helpt en hoe jij dat ook kunt doen",
+			"title": "Steun ons"
+		}
 	}
 }

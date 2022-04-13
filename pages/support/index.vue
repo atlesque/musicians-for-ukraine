@@ -8,15 +8,14 @@
         />
       </div>
       <h1 class="max-w-xl headline-xl">
-        {{ $t(`home.meta.title`) }}
+        {{ $t(`support.meta.title`) }}
       </h1>
       <p class="md:text-xl max-w-md md:max-w-2xl mb-8">
-        {{ $t(`home.meta.description`) }}
+        {{ $t(`support.meta.description`) }}
       </p>
     </section>
     <section class="max-w-2xl mx-auto px-8 md:px-0 nuxt-content">
-      <div v-html="$t(`home.aboutDescription`)"></div>
-      <p>Jozef &amp; Alex</p>
+      <div v-html="$t(`support.fullDescription`)"></div>
     </section>
   </main>
 </template>
@@ -26,8 +25,8 @@ export default {
   layout: "fullWidth",
   head() {
     return this.$getHeadMetadata({
-      title: this.$t(`home.meta.title`),
-      description: this.$t(`home.meta.description`),
+      title: this.$t(`support.meta.title`),
+      description: this.$t(`support.meta.description`),
     });
   },
 };

@@ -38,5 +38,12 @@
 			"title": "Hymne national ukrainien",
 			"twoVoicesInG": "2 voix en Sol"
 		}
+	},
+	"support": {
+		"fullDescription": "",
+		"meta": {
+			"description": "Qui nous aide et comment vous pouvez aussi",
+			"title": "Nous soutenir"
+		}
 	}
 }

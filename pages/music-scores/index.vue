@@ -1,7 +1,12 @@
 <template>
   <main>
-    <section class="hero text-center flex flex-col items-center pb-8">
-      <h1 class="max-w-xl headline-xl mb-8">
+    <section class="hero text-center flex flex-col items-center mb-8">
+      <div class="w-32 h-32 mb-4">
+        <img class="w-32 h-32"
+        src="~/assets/images/logo/musicians-for-ukraine-logo-raven.svg"
+        alt="Logo" />
+      </div>
+      <h1 class="max-w-xl headline-xl">
         {{ $t(`scores.meta.title`) }}
       </h1>
       <p class="md:text-xl max-w-md md:max-w-2xl">
@@ -62,3 +67,4 @@ export default {
   },
 };
 </script>
+

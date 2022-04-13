@@ -38,5 +38,12 @@
 			"title": "Ukrainian National Anthem",
 			"twoVoicesInG": "2 Voices in G"
 		}
+	},
+	"support": {
+		"fullDescription": "<p>We are supported by:</p>\n      <ul>\n        <li>\n          <a href=\"https://hetpoorthuisbrugge.be/\" class=\"link\"\n            >Het Poorthuis</a\n          >: Psychological help and housing for refugees\n        </li>\n        <li>\n          <a href=\"https://www.facebook.com/ArtRaven-Lamoot-1101619029871258/\" class=\"link\"\n            >Raven Lamoot</a\n          >: Illustration on music scores page\n        </li>\n        <li>\n          <a href=\"https://www.instagram.com/lohxillustrations/\" class=\"link\"\n            >Lotte Hendrickx</a\n          >: Logo illustration\n        </li>\n        <li>\n          <a href=\"https://helpukraine.be\" class=\"link\"\n            >Help Ukraine</a\n          >: Information website about the war in Ukraine\n        </li>\n      </ul>\n      <h2>Want to help us too?</h2>\n      <p>Send us a message: <a href=\"mailto:music@musiciansforukraine.com\">music@musiciansforukraine.com</a></p>\n      <p>We are all Musicians for Ukraine!</p>",
+		"meta": {
+			"description": "Who helps us and how you can too",
+			"title": "Support us"
+		}
 	}
 }

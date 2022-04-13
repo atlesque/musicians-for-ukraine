@@ -38,5 +38,12 @@
 			"title": "Гимн Украины",
 			"twoVoicesInG": "2 голоса в G"
 		}
+	},
+	"support": {
+		"fullDescription": "<p>Нас поддерживают:</p>      <ul>        <li>          <a href=\"https://hetpoorthuisbrugge.be/\" class=\"link\"\n            >Het Poorthuis</a\n          >: Психологическая помощь и жилье для беженцев\n        </li>        <li>          <a href=\"https://www.facebook.com/ArtRaven-Lamoot-1101619029871258/\" class=\"link\"\n            >Рэйвен Ламут</a\n          >: Иллюстрация на странице партитуры\n        </li>        <li>          <a href=\"https://www.instagram.com/lohxillustrations/\" class=\"link\"\n            >Lotte Hendrickx</a\n          >: Иллюстрация логотипа\n        </li>        <li>          <a href=\"https://helpukraine.be\" class=\"link\"\n            >Help Ukraine</a\n          >: Информационный сайт о войне в Украине\n        </li>      </ul>      <h2>Хотите помочь и нам?</h2>      <p>Отправьте нам сообщение: <a href=\"mailto:music@musiciansforukraine.com\">music@musiciansforukraine.com</a></p>      <p>Мы все Музыканты для Украины!</p>",
+		"meta": {
+			"description": "Кто помогает нам и как вы тоже можете",
+			"title": "Поддерживать нас"
+		}
 	}
 }
