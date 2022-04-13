@@ -11,6 +11,9 @@
 		"meta": {
 			"description": "Unterstützung der Ukraine durch Musik",
 			"title": "Musiker für die Ukraine"
+		},
+		"partners": {
+			"supportedBy": "Unterstützt durch"
 		}
 	},
 	"languages": {

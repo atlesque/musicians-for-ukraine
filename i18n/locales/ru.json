@@ -11,6 +11,9 @@
 		"meta": {
 			"description": "Поддержка Украины через музыку",
 			"title": "Музыканты для Украины"
+		},
+		"partners": {
+			"supportedBy": "При поддержке"
 		}
 	},
 	"languages": {

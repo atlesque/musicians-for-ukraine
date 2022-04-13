@@ -11,6 +11,9 @@
 		"meta": {
 			"description": "Oekraïne steunen met muziek",
 			"title": "Muzikanten voor Oekraïne"
+		},
+		"partners": {
+			"supportedBy": "Gesteund door"
 		}
 	},
 	"languages": {
