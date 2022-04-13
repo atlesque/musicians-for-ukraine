@@ -20,7 +20,7 @@
       </NuxtLink>
       <div class="items-center flex-1 hidden lg:flex justify-between">
         <div class="flex">
-          <NuxtLink
+        <NuxtLink
             v-for="(link, index) in navLinks"
             :key="index"
             :to="localePath(link.url)"

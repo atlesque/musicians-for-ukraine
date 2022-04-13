@@ -1,6 +1,6 @@
 <template>
   <img
-    src="~/assets/images/logo/musicians-for-ukraine-logo.png"
+    src="~/assets/images/logo/musicians-for-ukraine-logo-lotte.png"
     alt="Logo"
     class="logo"
   />

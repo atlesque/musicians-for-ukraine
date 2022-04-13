@@ -1,6 +1,12 @@
 <template>
   <main>
     <section class="hero text-center flex flex-col items-center pb-8">
+      <div class="w-32 h-32 mb-4">
+        <img
+          src="~/assets/images/logo/musicians-for-ukraine-logo-lotte.png"
+          alt="Logo"
+        />
+      </div>
       <h1 class="max-w-xl headline-xl">
         {{ $t(`home.meta.title`) }}
       </h1>
@@ -26,3 +32,4 @@ export default {
   },
 };
 </script>
+
