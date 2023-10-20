@@ -18,13 +18,15 @@
       <ul>
         <li>
           <a
-            href="https://atlesque-public.s3.fr-par.scw.cloud/musicians-for-ukraine/scores/Ukrainian%20National%20Anthem%20-%202%20Voices%20in%20G.pdf"
+            href="/scores/Ukrainian_National_Anthem_-_2_Voices_in_G.pdf"
+            target="_blank"
             >{{ $t(`scores.nationalAnthem.twoVoicesInG`) }}</a
           >
         </li>
         <li>
           <a
-            href="https://atlesque-public.s3.fr-par.scw.cloud/musicians-for-ukraine/scores/Ukrainian%20National%20Anthem%20-%204%20Instruments%20in%20F.pdf"
+            href="/scores/Ukrainian_National_Anthem_-_4_Instruments_in_F.pdf"
+            target="_blank"
             >{{ $t(`scores.nationalAnthem.fourInstrumentsInF`) }}</a
           >
         </li>
